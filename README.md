@@ -1,2 +1,11 @@
-# gesturecontrolproject
-Control system volume using hand gestures! This project uses Python, OpenCV, and MediaPipe to track your hand in real-time and adjust volume based on finger distance. Wave your hand like a wizard and control sound without touching your keyboard.
+# Gesture Volume Control
+
+Control your system volume using hand gestures! 🖐️🎛️
+
+- Uses OpenCV and MediaPipe to track hand landmarks.
+- Adjusts system volume based on finger distance.
+- Works in real-time.
+
+## How to run
+```bash
+python gesture_volume.py
